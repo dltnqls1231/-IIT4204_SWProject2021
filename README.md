@@ -2,3 +2,5 @@
 
 연세대학교 IT융합공학과
 SW프로젝트(IIT4204) 컴퓨터비전 복습
+
+(week4, week8 No class)
